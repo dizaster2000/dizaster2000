@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dizaster2000
-- 👀 I’m interested in Kubernetes, Docker, Webserver management, Cluster Management and anything I find intriguing
-- 🌱 I’m currently learning DevOps Engineering from Sherdil IT Academy
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Engineering
 - 💞️ I’m looking to collaborate on ..... Still Deciding XD
 - 📫 How to reach me - https://www.linkedin.com/in/umarghayas
 
